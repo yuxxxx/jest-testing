@@ -1,5 +1,3 @@
-import { QueryProvider } from "./providers/query/query";
-import { QueryResult } from "./lib/IssueNode";
 
 const mock = () => {
   let storage = {};
