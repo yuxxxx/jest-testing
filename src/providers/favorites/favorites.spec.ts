@@ -1,4 +1,4 @@
-import { FavoritesProvider } from './history';
+import { FavoritesProvider } from './favorites';
 import { TestBed, ComponentFixture } from '@angular/core/testing';
 import { IonicStorageModule } from '@ionic/storage';
 import { IonicModule } from 'ionic-angular/umd';
